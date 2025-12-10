@@ -1,1 +1,6 @@
 day8/runner
+
+# Day 10 - Rust artifacts
+day10/target/
+day10/solution
+day10/Cargo.lock
